@@ -42,16 +42,6 @@ a:hover::after {
   transform: scaleX(1);
   transform-origin: left;
 }
-.table {
-  margin: 1% 35% 0 ;
-  align-items: center;
-  justify-content: center;
-}
-.table{
-  display: flex;
-  margin-top: 10px;
-  margin-bottom: 5%;
-}
 li {
   list-style: none;
 }
